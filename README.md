@@ -6,7 +6,7 @@
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dixen-Naxos&show_icons=true&theme=transparent&count_private=true&hide_border=true">
     </a>
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-dixen-naxos-projects.vercel.app?user=Dixen-Naxos&theme=transparent&hide_border=true" alt="GitHub Streak" />
+        <img width="49%" src="https://github-readme-streak-stats-dixen-naxos-projects.vercel.app?user=Dixen-Naxos&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
 
